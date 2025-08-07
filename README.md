@@ -1,6 +1,6 @@
 # Climate Navigator – Your Weather, Simplified
 
-Tagline: "Track weather conditions for your favorite cities with a clean, responsive interface – no backend required."
+Track weather conditions for your favorite cities with a clean, responsive interface – no backend required.
 
 📖 Description
 Climate Navigator is a lightweight, responsive weather tracking app built using HTML, CSS, and JavaScript. It allows users to get real-time weather data for any city around the globe. The app fetches data from the OpenWeatherMap API and displays a 6-day weather forecast with dynamic visuals.
