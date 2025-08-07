@@ -31,13 +31,14 @@ JavaScript	Functionality & API integration
 OpenWeatherMap API	Weather data source
 
 📁 Project Structure
+- index.html
+- style.css
+- script.js
+- assets/
+  - icons/
+  - images/
+- README.md
 
-climate-navigator/
-├── index.html         # Main HTML file
-├── style.css          # Styling for the app
-├── script.js          # Main JS logic and API integration
-├── assets/            # Icons and images
-└── README.md          # Project documentation
 
 👤 Author
 
