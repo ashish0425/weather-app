@@ -1,4 +1,4 @@
-#Climate Navigator – Your Weather, Simplified
+# Climate Navigator – Your Weather, Simplified
 
 Tagline: "Track weather conditions for your favorite cities with a clean, responsive interface – no backend required."
 
